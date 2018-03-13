@@ -1,0 +1,36 @@
+/* reset */
+*{-webkit-tap-highlight-color: rgba(0,0,0,0);}
+body,textarea,input,button,select,keygen,legend{ font: 12px/1.5 "微软雅黑",Arial,"Microsoft YaHei","Open Sans","Hiragino Sans GB","STHeiti","WenQuanYi Micro Hei",SimSun,sans-serif,tahoma,arial,"Hiragino Sans GB","宋体",sans-serif;  background:#fff; }
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu{margin:0;padding:0;outline:none;}
+header,footer,section,article,aside,nav,hgroup,address,figure,figcaption,menu,details{display:block;}
+table{border-collapse:collapse;border-spacing:0;overflow:hidden;word-break:break-all;}
+caption,th{text-align:left;font-weight:normal;}
+html,body,fieldset,img,iframe,abbr{border:0;}
+i,cite,em,var,address,dfn{font-style:normal;}
+[hidefocus],summary{outline:0;}
+ul,li{list-style:none;}
+h1,h2,h3,h4,h5,h6,small{font-size:100%;}
+sup,sub{font-size:83%;}
+pre,code,kbd,samp{font-family:inherit;}
+q:before,q:after{content:none;}
+textarea{overflow:auto;resize:none;}
+label,summary{cursor:default;}
+a,button{cursor:pointer;}
+del,ins,u,s,a,a:hover{text-decoration:none;}
+a{ text-decoration:none; outline:none;}/*去掉链接点击时出现的虚线框*/
+a:active{star:expression(this.onFocus=this.blur());}/*去掉链接点击时出现的虚线框---made by linwenshu*/
+input::-moz-focus-inner{border:none;}/*去掉按钮点击时出现的虚线框--------for */
+html, body{ margin:0; height:100%;width:100%; }/*解决height:100%无效的问题*/
+/*function*/
+.ofh{overflow:hidden;}
+.wsn{white-space:nowrap;}
+.hide{display:none;}
+.f-fl{float:left;}
+.f-fr{float:right;}
+.cb{clear:both;}
+.inb{display:inline-block;}
+.tl{text-align:left;}
+.tc{text-align:center;}
+.pr{position:relative;}
+.pa{position:absolute;}
+.db{display:block;}

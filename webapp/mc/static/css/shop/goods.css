@@ -1,0 +1,45 @@
+/**关闭**/
+.u-close1{
+	display: inline-block;
+	width: 0.533rem;
+	height:0.533rem;
+	position: absolute;
+	top:0.4rem;
+	right:0.347rem;
+	background:url(/wapshop/static/img/shop/icon.png) no-repeat 0rem 0rem;
+	background-size: 8rem 5.12rem; 
+}
+.m-banner{ width: 10rem;height:8rem; margin: 0 auto;}
+.m-banner img{ width: 100%;height:8rem; }
+
+.m-theme{padding: 0.267rem 0.32rem;height:2.266rem; position: relative;background: #ffffff;border-bottom: 1px solid #eaeaea; }
+.m-theme span{ font-size: 0.307rem; color: #fff; background-color: #fe4646; width: 0.853rem; height:0.453rem;line-height:0.453rem;text-align:center;display: inline-block;position: absolute; top:0.267rem;left: 0.32rem;border-radius:0.1rem; }
+.m-theme .u-title{ font-size: 0.373rem; padding-left: 0.986rem; }
+.m-theme .u-adl{color:#428bfc; font-size: 0.293rem;line-height: 0.6rem}
+.m-theme .reference{ color: #999; font-size: 0.373rem; text-decoration: line-through;}
+.m-theme .reference i{font-style:normal; font-size:0.4rem;}
+.m-money{ padding: 0 0.32rem; background: #fff;margin-top: 0.253rem;border-top: 1px solid #eaeaea;border-bottom: 1px solid #eaeaea;}
+/**规格**/
+.m-Sft{ padding: 0.4rem 0.32rem;background: #fff; border-top:1px solid #eaeaea; border-bottom:1px solid #eaeaea; margin-top: 0.253rem; font-size: 0.4rem; color: #666;}
+.m-Sft .u-sft{ color: #000; }
+.m-Sft .u-sft i{font-style:normal;}
+/**服务**/
+.m-service{ position:relative;padding: 0.4rem 0.32rem; background: #fff;border-top:1px solid #eaeaea; border-bottom:1px solid #eaeaea;margin-top: 0.24rem;}
+.m-service .u-sve{ font-size:0.4rem; }
+.m-service p{font-size:0.32rem; padding-left: 1.44rem; line-height: 0.8rem;}
+/****分享****/
+.m-share{ position:relative;padding: 0.4rem 0.32rem; background: #fff;border-top:1px solid #eaeaea; border-bottom:1px solid #eaeaea;margin-top: 0.24rem;}
+.m-share .u-share-tlt{ font-size: 0.4rem; color: #666; }
+.m-share .u-sh-p{ width: 100%;margin-top:0.453rem;margin-bottom:0.16rem;}
+.m-share-con{ width:100%; height:2.48rem;border-top: 1px solid #eaeaea; padding-top: 0.4rem;line-height: 0.58rem;}
+.m-share .m-share-con .u-un-tlt{ font-size: 0.4rem; }
+.m-share .m-share-con .u-Explain{ font-size: 0.32rem; color: #999;letter-spacing:0.02rem; }
+/****/
+.m-cun{ padding: 0.4rem 0.32rem;background: #fff; border-top:1px solid #eaeaea; border-bottom:1px solid #eaeaea; margin-top: 0.253rem; font-size: 0.4rem; color: #666;}
+.m-cun img{ width: 1.213rem;height: 1.213rem; float: left;}
+.m-cun .u-cun-money{ height: 1.33rem; padding-left: 1.57rem; }
+.cun-my{font-size: 0.32rem;color: #333; line-height: 0.67rem;}
+.cun-my b{ color: #fe4646;font-size: 0.507rem;}
+.cun-p{font-size: 0.347rem;}
+.ban-num{ background:#d3d3d3; border-radius: 50%; width: 0.906rem;height: 0.906rem; display: inline-block;color: #fff;font-size: 0.32rem;text-align: center; line-height: 0.906rem;position: absolute; top: 6.6rem; right: 0.32rem;}
+.ban-num em{ font-style: normal; }
